@@ -5,7 +5,7 @@
 
 #Techstack used
 
-Java 11
+Java 8
 SpringBoot
 ApacheKafka
 h2 in memory dB
